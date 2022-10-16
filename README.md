@@ -2,7 +2,7 @@
 www.dio.me
 
 ## Contexto
-Construido um sistema gerenciador de tarefas, onde você poderá cadastrar uma lista de tarefas que permitirá organizar melhor a sua rotina.
+Construido um sistema gerenciador de tarefas, onde é possível cadastrar uma lista de tarefas que permitirá organizar melhor a sua rotina.
 
 Essa lista de tarefas precisa ter um CRUD, ou seja, deverá permitir a você obter os registros, criar, salvar e deletar esses registros.
 
